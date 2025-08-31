@@ -1,0 +1,1 @@
+export default function Home(){return (<main><h1>BeanBack MVP</h1><p>Frontend placeholder.</p></main>)}
